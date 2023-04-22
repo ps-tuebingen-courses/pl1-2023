@@ -57,7 +57,7 @@ Tasks:
           below and add at least two more examples and test against these.
 
        2) Add implication as a new kind of expression "Impl" and extend
-          the interpreter accordingly. Add at least two examples and test.
+          the interpreter accordingly. Add at least two examples for testing.
 */
 
 def eval(e: Exp) : Boolean = e match {
